@@ -1,4 +1,4 @@
-# subtiga_restaurant
+# Restaurant App
 
 A new Flutter project.
 
